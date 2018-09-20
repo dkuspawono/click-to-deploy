@@ -27,4 +27,5 @@ Alternatively, you can invoke these commands directly in shell, without `make`.
 git submodule init
 git submodule sync --recursive
 git submodule update --recursive --init
-```
+`` `
+
